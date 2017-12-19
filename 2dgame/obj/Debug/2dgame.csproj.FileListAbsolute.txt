@@ -1,0 +1,20 @@
+C:\Users\larsb\source\repos\2dgame\2dgame\bin\Debug\2dgame.exe.config
+C:\Users\larsb\source\repos\2dgame\2dgame\bin\Debug\2dgame.exe
+C:\Users\larsb\source\repos\2dgame\2dgame\bin\Debug\2dgame.pdb
+C:\Users\larsb\source\repos\2dgame\2dgame\obj\Debug\2dgame.csprojResolveAssemblyReference.cache
+C:\Users\larsb\source\repos\2dgame\2dgame\obj\Debug\_2dgame.Form1.resources
+C:\Users\larsb\source\repos\2dgame\2dgame\obj\Debug\_2dgame.Properties.Resources.resources
+C:\Users\larsb\source\repos\2dgame\2dgame\obj\Debug\2dgame.csproj.GenerateResource.Cache
+C:\Users\larsb\source\repos\2dgame\2dgame\obj\Debug\2dgame.csproj.CoreCompileInputs.cache
+C:\Users\larsb\source\repos\2dgame\2dgame\obj\Debug\2dgame.exe
+C:\Users\larsb\source\repos\2dgame\2dgame\obj\Debug\2dgame.pdb
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\bin\Debug\2dgame.exe.config
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\bin\Debug\2dgame.exe
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\bin\Debug\2dgame.pdb
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\obj\Debug\2dgame.csprojResolveAssemblyReference.cache
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\obj\Debug\_2dgame.Form1.resources
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\obj\Debug\_2dgame.Properties.Resources.resources
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\obj\Debug\2dgame.csproj.GenerateResource.Cache
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\obj\Debug\2dgame.csproj.CoreCompileInputs.cache
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\obj\Debug\2dgame.exe
+C:\Users\larsb\Documents\Visual Studio 2017\Projects\2dgame\2dgame\obj\Debug\2dgame.pdb
